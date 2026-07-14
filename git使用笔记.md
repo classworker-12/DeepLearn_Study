@@ -15,6 +15,7 @@ git switch name #切换回分支
 git push . 
 git push #.代表本地分支 无则代表远程分支
 git pull origin main #拉取远程仓库最新代码
+git remote -v #查看连接的远程仓库
 ```
 
 注意:
