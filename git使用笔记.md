@@ -13,6 +13,7 @@ git branch #查看当前分支
 git switch -c "分支名" #创建分支
 git switch name #切换回分支
 git push . 
+git pull origin main #拉取远程仓库最新代码
 ```
 
 注意:
